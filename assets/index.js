@@ -14,7 +14,7 @@ fetch(apiUrl).then(function (response) {
 //functionality: enter area, list of plants currently in season.
 
 //Summarized details (individual id is not the same as species id) itis_taxonomic_sn?
-//https://www.usanpn.org/npn_portal/observations/getSummarizedData.json?kingdom=Plantae&state=OR&request_src=rest_test
+//https://www.usanpn.org/npn_portal/observations/getSummarizedData.json?&start_date=2012-01-01&end_date=2012-01-10&state=OR&kingdom=Plantae&request_src=rest_test
 
 // phenophase_category
 // Leaves [for plants]|Flowers [for plants]|Fruits [for plants]|Needles [for plants]|Pollen cones [for plants]|Seed cones [for plants]
