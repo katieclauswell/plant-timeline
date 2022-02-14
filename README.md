@@ -1,4 +1,5 @@
 # Plant Timeline
+:construction: *Personal project, under construction.* :construction:
 ## Summary
 A resource for the user to determine what plants are currently in season in their area. Eventually (or just aspirationally), the application will be developed into a foraging and hunting resource; providing medicinal, culinary and cultural information on plants.
 
